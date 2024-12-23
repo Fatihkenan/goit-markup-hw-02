@@ -1,0 +1,132 @@
+body{
+    font-family: "Roboto",sans-serif;
+    color: #434455;
+    font-size: 16px;
+    line-height: 14px;
+}
+h1{
+    color: #fff;
+    font-family: inherit;
+    font-weight: bold;
+    font-size: 3.5rem;
+    line-height: 4.28rem;
+}
+.our_portfolio_image {
+  width: 360px;
+  height: 300px;
+}
+.our_team img{
+  width: 264px;
+  height: 260px;
+}
+span{
+    color: #4D5AE5;
+    font-family: "Raleway",sans-serif;
+    font-weight: 700;
+}
+.logo{
+    font-family: "Raleway",sans-serif;
+    font-weight: 700;
+    text-decoration: none;
+}
+.navbar_a_tags a{
+    text-decoration: none;
+    font-family: inherit;
+    font-weight: 500;
+    color: #2E2F42;
+    
+}
+.navbar_a_tags a:hover{
+    color: #404BBF;
+    transition: .5s ease-in-out;
+
+
+}
+.btn{
+    border: none;
+    border-radius: 4px;
+    padding: 16px 32px;
+    gap: 10px;
+    background-color: #4D5AE5;
+    color: #fff;
+    font-family: inherit;
+    font-weight: 500;
+    font-size: 1rem;
+    line-height: 1.71rem;
+    transition: .5s ease;
+    cursor: pointer;
+}
+.btn:hover{
+    background-color: #404BBF;
+}
+.nav_address a{
+    color: inherit;
+    text-decoration: none;
+    transition: .5s ease-in-out;
+    font-family: inherit;
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 1.71rem;
+}
+.nav_address a:hover{
+    color: #404BBF;
+    cursor: pointer;
+}
+nav{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    position: sticky;
+    height: 72px;
+    padding: 0 3rem;
+}
+.our_portfolio{
+    margin: 156px;
+}
+.our_portfolio_container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+    margin: 0 156px;
+    
+}
+.our_portfolio h2{
+    display: flex;
+    justify-content: center;
+}
+.our_team{
+    margin: 100px;
+}
+.our_team_container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+    gap: 20px;
+}
+.our_team h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+ul li{
+    list-style: none;
+}
+.main_header{
+    background-color: #2E2F42;
+    background-size: cover;
+    height: 600px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+
+
+
+
