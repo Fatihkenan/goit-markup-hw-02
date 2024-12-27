@@ -53,6 +53,9 @@ body {
 .navbar-address-a-tags:hover {
   color: var(--ocean);
 }
+.navbar-address-a-tags:focus {
+  color: var(--ocean);
+}
 /* header */
 .main-header {
   background-color: var(--navy-blue);
@@ -132,7 +135,7 @@ body {
   text-transform: capitalize;
   color: var(--navy-blue);
 }
-.our-portfolio-subtitle { 
+.our-portfolio-subtitle {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
