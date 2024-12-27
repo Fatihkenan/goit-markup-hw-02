@@ -82,7 +82,7 @@ body {
   background-color: var(--ocean);
 }
 /* third section */
-.third-section-h3 {
+.third-section-subtitle {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -99,7 +99,7 @@ body {
 .our-team {
   background-color: var(--cloud);
 }
-.our-team-h2 {
+.our-team-title {
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
@@ -110,7 +110,7 @@ body {
 .our-team-list {
   background-color: var(--white);
 }
-.our-team-list-h3 {
+.our-team-list-name {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -124,7 +124,7 @@ body {
   color: var(--slate);
 }
 /* our portfolio */
-.our-portfolio-h2 {
+.our-portfolio-title {
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
@@ -132,7 +132,7 @@ body {
   text-transform: capitalize;
   color: var(--navy-blue);
 }
-.our-portfolio-h3 {
+.our-portfolio-subtitle {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
