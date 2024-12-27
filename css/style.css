@@ -57,7 +57,7 @@ body {
 .main-header {
   background-color: var(--navy-blue);
 }
-.main-header-h1 {
+.main-header-title {
   font-size: 56px;
   line-height: 1.07;
   text-align: center;
