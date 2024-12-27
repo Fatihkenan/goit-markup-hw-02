@@ -132,7 +132,7 @@ body {
   text-transform: capitalize;
   color: var(--navy-blue);
 }
-.our-portfolio-subtitle {
+.our-portfolio-subtitle { 
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
